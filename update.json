@@ -1,0 +1,6 @@
+{
+  "version": "v1.02",
+  "versionCode": 102,
+  "zipUrl": "https://raw.githubusercontent.com/backslashxx/wireguard_lkm/main/module.zip",
+  "changelog": "https://raw.githubusercontent.com/backslashxx/wireguard_lkm/main/README.md"
+}

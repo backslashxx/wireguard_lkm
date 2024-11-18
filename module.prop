@@ -1,0 +1,7 @@
+id=wireguard_lkm
+name=WireGuard LKM
+version=v1
+versionCode=102
+author=xx
+updateJson=https://raw.githubusercontent.com/backslashxx/wireguard_lkm/main/update.json
+description=wireguard.ko for xx kernels
